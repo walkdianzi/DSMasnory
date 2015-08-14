@@ -18,7 +18,7 @@
     [self.view setBackgroundColor:[UIColor whiteColor]];
     
     //竖直方向上，顶部和底部位置定好，其他等间隙排放
-    UIView *superView1 = [[UIView alloc] initWithFrame:CGRectMake(10, 70, (self.view.frame.size.width-30)/2, 500)];
+    UIView *superView1 = [[UIView alloc] initWithFrame:CGRectMake(10, 70, (self.view.frame.size.width-30)/2, 450)];
     superView1.backgroundColor = [UIColor redColor];
     [self.view addSubview:superView1];
     
@@ -60,7 +60,7 @@
     
     
     //竖直方向上，等间隙排放
-    UIView *superView2 = [[UIView alloc] initWithFrame:CGRectMake((self.view.frame.size.width-30)/2+20, 70, (self.view.frame.size.width-30)/2, 500)];
+    UIView *superView2 = [[UIView alloc] initWithFrame:CGRectMake((self.view.frame.size.width-30)/2+20, 70, (self.view.frame.size.width-30)/2, 450)];
     superView2.backgroundColor = [UIColor redColor];
     [self.view addSubview:superView2];
     
