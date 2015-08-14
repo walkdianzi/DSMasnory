@@ -84,8 +84,8 @@
         [superView2 distributeSpacingHorizontallyWith:@[v5,v6,v7] leftGap:10 rightGap:10];
 
 
-![横向等间隙排列](http://upload-images.jianshu.io/upload_images/101810-2db0606f82f1f032.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+![横向等间隙排列](http://upload-images.jianshu.io/upload_images/101810-3eb16287ab6ef1d0.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
 
 
-![竖直方向上等间隙排列](http://upload-images.jianshu.io/upload_images/101810-704f373a741e3f5a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+![竖直方向上等间隙排列](http://upload-images.jianshu.io/upload_images/101810-280cb409d7f235d2.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
